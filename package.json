@@ -24,5 +24,8 @@
   "homepage": "https://github.com/akameco/foxtail-extra#readme",
   "devDependencies": {
     "babel": "^5.8.23"
+  },
+  "dependencies": {
+    "foxtail": "^0.2.0"
   }
 }
