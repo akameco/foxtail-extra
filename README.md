@@ -1,5 +1,7 @@
 # foxtail extra
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/foxtail-extra.svg)](https://greenkeeper.io/)
+
 Responseを拡張し、便利なメソッドを追加する。
 
 ## Contributing
